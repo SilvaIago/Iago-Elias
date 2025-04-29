@@ -8,10 +8,10 @@
 📌Formada em Logística. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
-#####  Trabalhando atualmente com:
+#####  Estudando atualmente:
 
 <div>
-   <img  src=https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white />
+   <img  src=https://img.shields.io/badge/JavaScript-%23006f5c.svg?style=for-the-badge&logo=JavaScript&logoColor=FF6719 />
 </div>
 
 
