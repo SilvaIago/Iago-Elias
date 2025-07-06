@@ -4,10 +4,10 @@
 
 ##
 📌Estudando JavaScript  <br>
-📌Cursando o 1º semestre de Engenharia de Software na Universidade UniDomBosco - (AEDB). <br>
+📌Cursando o 2º semestre de Engenharia de Software na Universidade UniDomBosco - (AEDB). <br>
 📌Formada em Logística. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
-
+📌Conhecimento básico em PYTHON, HTML e JS
 #####  Estudando atualmente:
 
 <div>
